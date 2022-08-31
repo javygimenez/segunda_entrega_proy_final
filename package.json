@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "firebase-admin": "^11.0.1",
+    "mongoose": "^6.5.4",
+    "npm": "^8.18.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "segunda_entrega_proy_final",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
